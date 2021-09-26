@@ -1,7 +1,7 @@
 # 项目作用：
 
 编译时混淆字符串，确保编译后的二进制PE不是明文保存的字符串。
- ![image](https://https://github.com/Cc28256/ObfuscateP/blob/main/CObfuscateP/look.png)
+ ![image](https://github.com/Cc28256/ObfuscateP/blob/main/CObfuscateP/look.png)
 
 # 使用方法：
 
