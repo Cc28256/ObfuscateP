@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cstdio>
 #include "CObfuscateP.h"
-#include "CManageReg.h"
-#include "CCalc.h"
 
 void test()
 {
