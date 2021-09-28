@@ -16,6 +16,8 @@ IDA F5反编译对比：
 
 示例代码：
 
+```c
+
 	auto str1 = COSTRA("hello world!");
 	puts(str1);
 
@@ -25,6 +27,7 @@ IDA F5反编译对比：
 	wchar_t* str3 = COSTRW(L"test wstring!");
 	printf("%ws\r\n", str3);
   
+```
   
   # 注意事项：
   
