@@ -58,7 +58,7 @@
 
   3 进程字符串被计算为 unsigned int 类型在编译时期存于二进制文件，因此不会暴露明文。
 
-  4 可通过在 EnumAvType枚举类型、 CheckAllAvProc函数lAvInfoList变量中添加杀软进程名称或需要单独检查的进程名。
+  4 可通过在 EnumAvType枚举类型、 CheckAllAvProc函数lAvInfoList变量中添加杀软进程名称。
   
   5 重载运算符[]中switch块中添加自定义需要单一的进程检查。
   
